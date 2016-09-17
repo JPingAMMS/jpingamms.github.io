@@ -1,6 +1,6 @@
 ---
 layout: home
-avatar: 'yes'
+avatar: 'no'
 published: true
 ---
 
