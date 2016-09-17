@@ -10,4 +10,4 @@ My thesis was _Next Generation sequencing and Evolution for High Altitude Adapti
 by [Gangqiao Zhou](http://www.bprc.ac.cn/expert/show.php?itemid=9).Besides genetics, I'm a
 big fan of [GitHub](https://github.com/jpingamms).
 
-这是谢益辉的个人主页。2018年底我从[军事医学科学院](http://www.bmi.ac.cn/)放射与辐射研究所毕业（终于解决了人生前30年里最大的FAQ：你怎么还没毕业？）。
+这是平杰的个人主页。2018年底我从[军事医学科学院](http://www.bmi.ac.cn/)放射与辐射研究所毕业（终于解决了人生前30年里最大的FAQ：你怎么还没毕业？）。
