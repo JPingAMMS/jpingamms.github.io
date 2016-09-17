@@ -4,7 +4,7 @@ avatar: 'no'
 published: true
 ---
 
-I'm a geneticist working with [RStudio, Inc](http://www.rstudio.com).
+I'm a geneticist working with [RStudio](http://www.rstudio.com).
 I got my PhD from Beijing Institute of Radiation Medicine, [Academy of Military Medical Sciences](http://www.bmi.ac.cn/). 
 My thesis was _Next Generation sequencing and Evolution for High Altitude Adaption_, advised
 by [Gangqiao Zhou](http://www.bprc.ac.cn/expert/show.php?itemid=9).Besides genetics, I'm a
